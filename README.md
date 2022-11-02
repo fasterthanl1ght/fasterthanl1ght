@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My name is @fasterthanl1ght or Mykhaylo V.
-#### This is my first touch with Git. 🔭 I wanna be a DevOps Engineer, so now I learn different tools, study Computer Networks, Cybersecurity.
+## My name is  Mykhaylo V.
+#### Here will be my projects
