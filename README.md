@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My name is  Mykhaylo V.
+## My name is  Mykhaylo.
 #### Here will be my projects
